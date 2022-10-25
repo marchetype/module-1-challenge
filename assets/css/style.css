@@ -9,7 +9,7 @@ body {
 
     background-color: #d9dcd6;
 }
-
+/* see line 157 on 'style.css' */
 .header {
 
     padding: 20px;
@@ -154,7 +154,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Is it more efficient to remove the '.' before each footer selector (seen below)
+ and remove the class selector in HTML now that the semantic tags (<footer>/<header>) are used?  */
 .footer {
 
     padding: 30px;
@@ -163,6 +164,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }

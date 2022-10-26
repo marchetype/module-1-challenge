@@ -1,6 +1,6 @@
 ## README
 
-# module-1-challenge
+# Mark Barstow / module-1-challenge
 
 ## Goals
 
